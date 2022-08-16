@@ -1,6 +1,6 @@
 # Project Name
-Set up a "Hello Microverse" project
-> Description the project.
+## Set up a "Hello Microverse" project
+> This is a set up of a simple hello wordl project 
 
 
 ## Built With
