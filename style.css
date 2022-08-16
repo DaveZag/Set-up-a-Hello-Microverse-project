@@ -35,8 +35,8 @@ h1::after{
     left: 50%;
     background-color:  rgb(88, 72, 194);
     height: 10px;
-    width: 11rem;
-    animation: slide 2.1s forwards;
+    width: 3.5rem;
+    animation: slide 2.9s forwards;
 
 }
 
@@ -45,11 +45,12 @@ h1::after{
         width: 0rem;
     }
   
-    50%{
+    60%{
         width: 12rem;
     }
-
     100%{
-        width: 3.5rem;
+
     }
+
+
 }
