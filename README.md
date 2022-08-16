@@ -1,28 +1,21 @@
 # Project Name
-## Set up a "Hello Microverse" project
-> This is a set up of a simple hello wordl project 
+## "Hello Microverse" project
+> This is a set up of a simple project that when opened in a browser will display a "hello world".
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- HTML and CSS
+- npm(Node.js)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+ram: 500Mb
+Disk: 20Gb
 
 ### Setup
 
@@ -38,17 +31,12 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/DaveZag)
+- Twitter: [@twitterhandle](https://twitter.com/davezagabe2)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/dave-zagabe-03597a247/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
