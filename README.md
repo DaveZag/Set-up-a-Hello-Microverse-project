@@ -15,18 +15,10 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 ram: 500Mb
-Disk: 20Gb
-
-### Setup
-
-### Install
+Disk: 50Gb
 
 ### Usage
-
-### Run tests
-
-### Deployment
-
+Download the folder and open index.html in the browser.
 
 
 ## Authors
@@ -50,9 +42,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse Team
 
 ## 📝 License
 
