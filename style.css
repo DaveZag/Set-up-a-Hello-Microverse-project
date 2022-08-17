@@ -32,16 +32,17 @@ h1 {
 h1::after {
   content: "";
   position: absolute;
-  bottom: 30%;
+  bottom: 23%;
   left: 50%;
   background-color: rgb(88, 72, 194);
   height: 10px;
   animation: slide 2.9s forwards;
+  animation-iteration-count: infinite;
 }
 
 @keyframes slide {
   0% {
-    width: 0;
+    width: 3.5rem;
   }
 
   60% {
