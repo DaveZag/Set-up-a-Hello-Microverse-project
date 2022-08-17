@@ -32,7 +32,7 @@ h1 {
 h1::after {
   content: "";
   position: absolute;
-  bottom: 30%;
+  bottom: 23%;
   left: 50%;
   background-color: rgb(88, 72, 194);
   height: 10px;
